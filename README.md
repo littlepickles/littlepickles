@@ -1,5 +1,8 @@
 # LittlePickles
 
+![](https://github.com/littlepickles/littlepickles/blob/main/avoid.gif)
+
+
 > "You know, um, something strange happened to me this morning..."  
 > "Was it a dream where you see yourself standing in sort of sun-god robes on a pyramid with a thousand naked women screaming and throwing little pickles at you?"  
 > "No..."  
